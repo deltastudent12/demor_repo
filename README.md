@@ -1,2 +1,3 @@
-# demor_repo
+# demo_repo
 this is my first repo
+Author:Firdose
